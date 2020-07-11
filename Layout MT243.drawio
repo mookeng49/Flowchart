@@ -1,4 +1,4 @@
-<mxfile version="13.4.2" type="github" etag="u8RgN6bTi79t1y9jkNm2" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-11T03:15:34.173Z" host="app.diagrams.net">
+<mxfile version="13.4.2" type="github" etag="4OZHOH7StiKxhtkxcBNb" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-11T03:17:48.976Z" host="app.diagrams.net">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Page-1">
     <mxGraphModel grid="1" dx="1021" dy="565" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-45" value="Handle Tightening" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="70" width="70" x="1320" y="1230" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-46" value="Attach MH to GH&lt;br&gt;SW Tighten" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" height="70" width="70" x="1390" y="1230" />
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-46" value="MH Tightening Pan Head Screw" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;">
+          <mxGeometry as="geometry" height="70" width="70" x="1228" y="1680" />
         </mxCell>
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-47" value="Closed End Spice Crimping" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="70" width="70" x="1460" y="1230" />
