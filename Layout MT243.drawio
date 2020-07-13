@@ -1,6 +1,6 @@
-<mxfile version="13.4.2" type="github" host="app.diagrams.net" modified="2020-07-13T08:23:10.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="3VA1YB4aGjIOf4Hmb5lI">
+<mxfile version="13.4.2" type="github" host="app.diagrams.net" modified="2020-07-13T08:35:35.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="vFPjCS5FEwFItxnMLN7v">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Type1">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="800" dx="1447">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="400" dx="723">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,30 +86,30 @@
           <mxGeometry as="geometry" y="1680" x="202" width="900" height="65" />
         </mxCell>
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-50" value="&lt;b style=&quot;font-size: 30px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;New Layout MT243 Type 1&lt;/font&gt;&lt;/b&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" y="1350" x="260" width="460" height="60" />
+          <mxGeometry as="geometry" y="1190" x="100" width="460" height="60" />
         </mxCell>
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-51" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Aging Machine&lt;/b&gt;&lt;/font&gt;" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1864" x="782" width="180" height="80" />
         </mxCell>
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-52" value="&lt;font style=&quot;font-size: 25px&quot;&gt;W/C 112/422&lt;/font&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
-          <mxGeometry as="geometry" y="1410" x="242" width="280" height="30" />
+          <mxGeometry as="geometry" y="1250" x="80" width="280" height="30" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-53" value="Ar Press&lt;br&gt;X73-080" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-53" value="4.Ar Press&lt;br&gt;X73-080" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1620" x="1102" width="80" height="50" />
         </mxCell>
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-54" value="" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1620" x="1182" width="50" height="50" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-55" value="Bending Jig&lt;br&gt;X73-096" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-55" value="3.Bending Jig&lt;br&gt;X73-096" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1620" x="1232" width="80" height="50" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-56" value="FBS&lt;br&gt;Y31-0411" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;direction=west;rotation=-180;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-56" value="2.FBS&lt;br&gt;Y31-0411" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;direction=west;rotation=-180;" vertex="1">
           <mxGeometry as="geometry" y="1522" x="1312" width="50" height="98" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-57" value="Crimping&lt;br&gt;Machine" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-57" value="1.Crimping&lt;br&gt;Machine" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1462" x="1252" width="60" height="60" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-58" value="B.Box Press&lt;br&gt;X71-202" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-58" value="9.B.Box Press&lt;br&gt;X71-202" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1620" x="1022" width="80" height="50" />
         </mxCell>
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-59" value="Grease Pump" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
@@ -127,16 +127,16 @@
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-63" value="AC Tester" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1615" x="392" width="60" height="60" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-64" value="X73-086" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-64" value="11.X73-086" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1500" x="972" width="50" height="50" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-65" value="X73-068&lt;br&gt;Y06-057" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-65" value="12.X73-068" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1500" x="922" width="50" height="50" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-66" value="Z32-332&lt;br&gt;Y06-057" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-66" value="13.Z32-332" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1500" x="872" width="50" height="50" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-67" value="" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-67" value="Base Assy" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1620" x="832" width="80" height="50" />
         </mxCell>
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-68" value="Slide Jig, MH Tightening (PH Screw)" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1">
@@ -145,26 +145,26 @@
         <mxCell id="Z4mGhJQoA359sYGt_ZBV-69" value="Grease inject&lt;br&gt;Safety Tightening" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="517.5" x="940" width="50" height="50" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-70" value="Safety Cover Robot Fastening&lt;br&gt;RFM-630" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-70" value="10.Safety Cover Robot Fastening&lt;br&gt;RFM-630" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1">
           <mxGeometry as="geometry" y="1680" x="1102" width="63" height="117" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-71" value="Handle Robot Fastening&lt;br&gt;RFM-630" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-71" value="8.Handle Robot Fastening&lt;br&gt;RFM-630" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1">
           <mxGeometry as="geometry" y="1680" x="1215" width="63" height="117" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-73" value="Grease Inject" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-73" value="9.Grease Inject" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1747" x="1165" width="50" height="50" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-74" value="MH Tightening PH Screw" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=-180;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-74" value="7.MH Tightening" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=-180;" vertex="1">
           <mxGeometry as="geometry" y="1797" x="1278" width="50" height="80" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-75" value="Stopper Plate, Set Screw" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=-180;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-75" value="6.Stopper Plate, Set Screw" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=-180;" vertex="1">
           <mxGeometry as="geometry" y="1877" x="1278" width="60" height="60" />
         </mxCell>
-        <mxCell id="Z4mGhJQoA359sYGt_ZBV-76" value="CC Tightening" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1">
+        <mxCell id="Z4mGhJQoA359sYGt_ZBV-76" value="5.CC Tightening" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1">
           <mxGeometry as="geometry" y="1934" x="1278" width="60" height="60" />
         </mxCell>
         <mxCell id="TIjWBcZxxkn8RTLqRkM--8" value="&lt;p&gt;&lt;/p&gt;" parent="1" style="shape=actor;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1">
-          <mxGeometry as="geometry" y="1920" x="1570" width="30" height="40" />
+          <mxGeometry as="geometry" y="1797" x="1520" width="30" height="40" />
         </mxCell>
         <mxCell id="ojeW7tT7iBC3eu_94yLe-4" value="" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1">
           <mxGeometry as="geometry" y="450" x="1235" width="15" height="55" />
@@ -211,6 +211,14 @@
         <mxCell id="ojeW7tT7iBC3eu_94yLe-16" value="12500" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1">
           <mxGeometry as="geometry" y="2220" x="807" width="40" height="20" />
         </mxCell>
+        <mxCell id="ojeW7tT7iBC3eu_94yLe-17" value="" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1">
+          <mxGeometry as="geometry" y="1867" x="327" width="80" height="80" />
+        </mxCell>
+        <UserObject id="ojeW7tT7iBC3eu_94yLe-18" label="%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;" vertex="1">
+            <mxGeometry as="geometry" y="2310" x="1480" width="160" height="20" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
