@@ -1,4 +1,4 @@
-<mxfile version="13.4.2" type="github" pages="4" etag="k4seCfR2xWk2oD1pRa33" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T03:46:09.192Z" host="app.diagrams.net">
+<mxfile version="13.4.2" type="github" pages="4" etag="i5M6SrpcEzkiNGJWvvbI" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T03:51:30.704Z" host="app.diagrams.net">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Current">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="800" dx="1447">
       <root>
@@ -515,7 +515,7 @@
           <mxGeometry as="geometry" y="1190" x="100" width="460" height="60" />
         </mxCell>
         <mxCell id="_RD80aLg9yMo68CGCg-2-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;11.Aging Machine&lt;/b&gt;&lt;/font&gt;" parent="_RD80aLg9yMo68CGCg-2-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1864" x="782" width="180" height="80" />
+          <mxGeometry as="geometry" y="1864" x="820" width="180" height="80" />
         </mxCell>
         <mxCell id="_RD80aLg9yMo68CGCg-2-6" value="&lt;font style=&quot;font-size: 25px&quot;&gt;W/C 112/422&lt;/font&gt;" parent="_RD80aLg9yMo68CGCg-2-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" y="1250" x="80" width="280" height="30" />
@@ -542,7 +542,7 @@
           <mxGeometry as="geometry" y="1630" x="973.5" width="40" height="40" />
         </mxCell>
         <mxCell id="_RD80aLg9yMo68CGCg-2-14" value="Rework&lt;br&gt;Table" parent="_RD80aLg9yMo68CGCg-2-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1944" x="882" width="80" height="50" />
+          <mxGeometry as="geometry" y="1944" x="920" width="80" height="50" />
         </mxCell>
         <mxCell id="_RD80aLg9yMo68CGCg-2-15" value="Air Balancer" parent="_RD80aLg9yMo68CGCg-2-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1560" x="202" width="120" height="120" />
@@ -565,8 +565,8 @@
         <mxCell id="_RD80aLg9yMo68CGCg-2-21" value="15.Base Assy" parent="_RD80aLg9yMo68CGCg-2-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1620" x="832" width="80" height="50" />
         </mxCell>
-        <mxCell id="_RD80aLg9yMo68CGCg-2-22" value="10.Safety Cover Robot Fastening&lt;br&gt;RFM-630" parent="_RD80aLg9yMo68CGCg-2-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;rotation=0;" vertex="1">
-          <mxGeometry as="geometry" y="1864" x="962" width="63" height="117" />
+        <mxCell id="_RD80aLg9yMo68CGCg-2-22" value="u" parent="_RD80aLg9yMo68CGCg-2-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;rotation=0;" vertex="1">
+          <mxGeometry as="geometry" y="1864" x="1000" width="63" height="117" />
         </mxCell>
         <mxCell id="_RD80aLg9yMo68CGCg-2-23" value="8.Handle Robot Fastening&lt;br&gt;RFM-630" parent="_RD80aLg9yMo68CGCg-2-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;rotation=0;" vertex="1">
           <mxGeometry as="geometry" y="1695" x="1202" width="63" height="117" />
