@@ -1,6 +1,6 @@
-<mxfile version="13.4.2" type="github" pages="5" etag="x0HJfzNC4XjaCHbaYHqf" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T04:39:25.583Z" host="app.diagrams.net">
+<mxfile version="13.4.2" type="github" pages="5" etag="wgjpTT9zYIhHsrq1ZPUB" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T04:52:23.248Z" host="app.diagrams.net">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Current">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="480" dx="868">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="565" dx="1021">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,11 +219,14 @@
         <mxCell id="ojeW7tT7iBC3eu_94yLe-29" value="Packing" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1861" x="400" width="180" height="46" />
         </mxCell>
+        <mxCell id="o3ZY4pQ3F_PkEaELs26B-1" value="" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" y="510" x="890" width="20" height="65" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="a1I7eFaacvql8K30oj_m" name="Type1">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="-369" dx="1447">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="-769" dx="723">
       <root>
         <mxCell id="PlNr080X48ymPJ8tfxlA-0" />
         <mxCell id="PlNr080X48ymPJ8tfxlA-1" parent="PlNr080X48ymPJ8tfxlA-0" />
@@ -640,7 +643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qVuNiZXv1M_c9rulVDL1" name="Type4">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="-689" dx="868">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="-604" dx="1021">
       <root>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-0" />
         <mxCell id="SWhHxKMY7uj_IApIQq-o-1" parent="SWhHxKMY7uj_IApIQq-o-0" />
@@ -653,8 +656,8 @@
         <mxCell id="SWhHxKMY7uj_IApIQq-o-4" value="&lt;b style=&quot;font-size: 30px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;New Layout MT243 Type 1&lt;/font&gt;&lt;/b&gt;" parent="SWhHxKMY7uj_IApIQq-o-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" y="1190" x="100" width="460" height="60" />
         </mxCell>
-        <mxCell id="SWhHxKMY7uj_IApIQq-o-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;11.Aging Machine&lt;/b&gt;&lt;/font&gt;" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1">
-          <mxGeometry as="geometry" y="1845" x="840" width="180" height="80" />
+        <mxCell id="SWhHxKMY7uj_IApIQq-o-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;11.Aging Machine&lt;/b&gt;&lt;/font&gt;" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=225;direction=east;" vertex="1">
+          <mxGeometry as="geometry" y="1849" x="846" width="180" height="80" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-6" value="&lt;font style=&quot;font-size: 25px&quot;&gt;W/C 112/422&lt;/font&gt;" parent="SWhHxKMY7uj_IApIQq-o-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" y="1250" x="80" width="280" height="30" />
@@ -663,7 +666,7 @@
           <mxGeometry as="geometry" y="1745" x="1075" width="80" height="50" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-8" value="" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1747" x="1155" width="50" height="46" />
+          <mxGeometry as="geometry" y="1745" x="1155" width="50" height="50" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-9" value="3.Bending Jig&lt;br&gt;X73-096" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1">
           <mxGeometry as="geometry" y="1680" x="1140" width="80" height="50" />
@@ -678,10 +681,10 @@
           <mxGeometry as="geometry" y="1745" x="995" width="80" height="50" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-13" value="Grease Pump" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1981" x="1082" width="40" height="40" />
+          <mxGeometry as="geometry" y="1981" x="1097" width="40" height="40" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-14" value="Rework&lt;br&gt;Table" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="2005" x="934" width="80" height="50" />
+          <mxGeometry as="geometry" y="1840" x="1470" width="80" height="50" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-15" value="Air Balancer" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1560" x="202" width="120" height="120" />
@@ -705,22 +708,22 @@
           <mxGeometry as="geometry" y="1620" x="832" width="80" height="50" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-22" value="10.Safety Cover Robot Fastening&lt;br&gt;RFM-630" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1">
-          <mxGeometry as="geometry" y="1925" x="1014" width="63" height="117" />
+          <mxGeometry as="geometry" y="1925" x="1029" width="63" height="117" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-23" value="8.Handle Robot Fastening&lt;br&gt;RFM-630" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1">
-          <mxGeometry as="geometry" y="1925" x="1127" width="63" height="117" />
+          <mxGeometry as="geometry" y="1925" x="1142" width="63" height="117" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-24" value="9.Grease Inject" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1925" x="1077" width="50" height="50" />
+          <mxGeometry as="geometry" y="1925" x="1092" width="50" height="50" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-25" value="7.MH Tightening" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=0;" vertex="1">
-          <mxGeometry as="geometry" y="1795" x="1190" width="50" height="80" />
+          <mxGeometry as="geometry" y="1795" x="1205" width="50" height="80" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-26" value="6.Stopper Plate, Set Screw" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" vertex="1">
-          <mxGeometry as="geometry" y="1875" x="1240" width="60" height="60" />
+          <mxGeometry as="geometry" y="1875" x="1255" width="60" height="60" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-27" value="5.CC Tightening" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1">
-          <mxGeometry as="geometry" y="1875" x="1300" width="60" height="60" />
+          <mxGeometry as="geometry" y="1875" x="1315" width="60" height="60" />
         </mxCell>
         <mxCell id="SWhHxKMY7uj_IApIQq-o-28" value="" parent="SWhHxKMY7uj_IApIQq-o-1" style="endArrow=none;html=1;" edge="1">
           <mxGeometry as="geometry" width="50" height="50" relative="1">
@@ -776,7 +779,7 @@
           <mxGeometry as="geometry" y="1861" x="400" width="180" height="46" />
         </mxCell>
         <mxCell id="Zk0wCurTXaSNRWi-knqa-0" value="" parent="SWhHxKMY7uj_IApIQq-o-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1875" x="1190" width="50" height="50" />
+          <mxGeometry as="geometry" y="1875" x="1205" width="50" height="50" />
         </mxCell>
       </root>
     </mxGraphModel>
