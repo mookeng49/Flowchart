@@ -1,4 +1,4 @@
-<mxfile version="13.4.2" type="github" pages="5" etag="d0ACCtJwIhKS2jlRJgjf" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T04:55:05.230Z" host="app.diagrams.net">
+<mxfile version="13.4.2" type="github" pages="5" etag="os7Q1G4qt6A_32k2uwpn" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T05:03:35.836Z" host="app.diagrams.net">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Current">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="565" dx="1021">
       <root>
@@ -432,8 +432,8 @@
         <mxCell id="L-VaqTzVUI_c6U14HScF-22" value="10.Safety Cover Robot Fastening&lt;br&gt;RFM-630" parent="L-VaqTzVUI_c6U14HScF-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1">
           <mxGeometry as="geometry" y="1680" x="1102" width="63" height="117" />
         </mxCell>
-        <mxCell id="L-VaqTzVUI_c6U14HScF-23" value="8.Handle Robot Fastening&lt;br&gt;RFM-630" parent="L-VaqTzVUI_c6U14HScF-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;rotation=90;" vertex="1">
-          <mxGeometry as="geometry" y="1770" x="1292" width="63" height="117" />
+        <mxCell id="L-VaqTzVUI_c6U14HScF-23" value="8.Handle Robot Fastening&lt;br&gt;RFM-630" parent="L-VaqTzVUI_c6U14HScF-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;rotation=0;" vertex="1">
+          <mxGeometry as="geometry" y="1680" x="1265" width="63" height="117" />
         </mxCell>
         <mxCell id="L-VaqTzVUI_c6U14HScF-24" value="9.Grease Inject" parent="L-VaqTzVUI_c6U14HScF-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1747" x="1165" width="50" height="50" />
@@ -442,10 +442,10 @@
           <mxGeometry as="geometry" y="1747" x="1215" width="50" height="50" />
         </mxCell>
         <mxCell id="L-VaqTzVUI_c6U14HScF-26" value="6.Stopper Plate, Set Screw" parent="L-VaqTzVUI_c6U14HScF-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=-180;" vertex="1">
-          <mxGeometry as="geometry" y="1861" x="1265" width="60" height="60" />
+          <mxGeometry as="geometry" y="1797" x="1328" width="60" height="60" />
         </mxCell>
         <mxCell id="L-VaqTzVUI_c6U14HScF-27" value="5.CC Tightening" parent="L-VaqTzVUI_c6U14HScF-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1">
-          <mxGeometry as="geometry" y="1921" x="1265" width="60" height="60" />
+          <mxGeometry as="geometry" y="1857" x="1328" width="60" height="60" />
         </mxCell>
         <mxCell id="L-VaqTzVUI_c6U14HScF-28" value="" parent="L-VaqTzVUI_c6U14HScF-1" style="endArrow=none;html=1;" edge="1">
           <mxGeometry as="geometry" width="50" height="50" relative="1">
