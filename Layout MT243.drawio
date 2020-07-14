@@ -1,4 +1,4 @@
-<mxfile version="13.4.2" type="github" pages="8" etag="vwpNrQPMSJxKacOb1DEw" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T09:39:09.313Z" host="app.diagrams.net">
+<mxfile version="13.4.2" type="github" pages="8" etag="JqtMIL13Q8fE9AANkrCg" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T09:41:08.403Z" host="app.diagrams.net">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Current">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="400" dx="723">
       <root>
@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TBI570lrb27etf5B6X2X" name="TypePEA">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="-838" dx="599">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="-895" dx="496">
       <root>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-0" />
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-1" parent="JJLQ4jDyWOrviq1dHbL1-0" />
@@ -287,10 +287,10 @@
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-20" value="15.Base Assy" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1">
           <mxGeometry as="geometry" y="1620" x="780" width="80" height="50" />
         </mxCell>
-        <mxCell id="JJLQ4jDyWOrviq1dHbL1-21" value="10.Safety Cover Robot Fastening&lt;br&gt;RFM-630" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;rotation=90;" vertex="1">
+        <mxCell id="JJLQ4jDyWOrviq1dHbL1-21" value="10.Safety Cover Robot Fastening&lt;br&gt;RFM-630" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1">
           <mxGeometry as="geometry" y="1718" x="1012" width="63" height="117" />
         </mxCell>
-        <mxCell id="JJLQ4jDyWOrviq1dHbL1-22" value="8.Handle Robot Fastening&lt;br&gt;RFM-630" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;rotation=-90;" vertex="1">
+        <mxCell id="JJLQ4jDyWOrviq1dHbL1-22" value="8.Handle Robot Fastening&lt;br&gt;RFM-630" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1">
           <mxGeometry as="geometry" y="1539.5" x="1012" width="63" height="117" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-23" value="9.Grease Inject" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1">
@@ -417,6 +417,9 @@
         </mxCell>
         <mxCell id="k9VHtohGF5ncFC9BBzSF-11" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;arrowWidth=0.43333333333333335;arrowSize=0.36;" vertex="1">
           <mxGeometry as="geometry" y="1699" x="330" width="45" height="27" />
+        </mxCell>
+        <mxCell id="k9VHtohGF5ncFC9BBzSF-12" value="Part Cart&lt;br&gt;Gear Housing" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;dashed=1;dashPattern=1 4;" vertex="1">
+          <mxGeometry as="geometry" y="1620" x="1246" width="55" height="65" />
         </mxCell>
       </root>
     </mxGraphModel>
