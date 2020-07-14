@@ -1,4 +1,4 @@
-<mxfile version="13.4.2" type="github" pages="8" etag="CPKI4VtKII2TTzyALXYQ" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T07:23:24.423Z" host="app.diagrams.net">
+<mxfile version="13.4.2" type="github" pages="8" etag="aEWEsjj4mczWMcnzJ9cX" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T07:28:07.409Z" host="app.diagrams.net">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Current">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="400" dx="723">
       <root>
@@ -231,7 +231,7 @@
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-0" />
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-1" parent="JJLQ4jDyWOrviq1dHbL1-0" />
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-2" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1324" x="201" width="1250" height="860" />
+          <mxGeometry as="geometry" y="1250" x="201" width="1250" height="860" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-3" value="&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Conveyor 9 m&lt;/font&gt;&lt;/b&gt;" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1680" x="202" width="900" height="65" />
@@ -246,22 +246,22 @@
           <mxGeometry as="geometry" y="1250" x="80" width="280" height="30" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-7" value="4.Ar Press&lt;br&gt;X73-080" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1558" x="1152" width="80" height="50" />
+          <mxGeometry as="geometry" y="1484" x="1100" width="80" height="50" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-8" value="3.Bending Jig&lt;br&gt;X73-096" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1558" x="1232" width="80" height="50" />
+          <mxGeometry as="geometry" y="1484" x="1180" width="80" height="50" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-9" value="2.FBS&lt;br&gt;Y31-0411" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;direction=west;rotation=-180;" vertex="1">
-          <mxGeometry as="geometry" y="1460" x="1312" width="50" height="98" />
+          <mxGeometry as="geometry" y="1386" x="1260" width="50" height="98" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-10" value="1.Crimping&lt;br&gt;Machine" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1400" x="1252" width="60" height="60" />
+          <mxGeometry as="geometry" y="1326" x="1200" width="60" height="60" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-11" value="9.B.Box Press&lt;br&gt;X71-202" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1558" x="1071.5" width="80" height="50" />
+          <mxGeometry as="geometry" y="1741.5" x="1102.5" width="80" height="50" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-12" value="Grease Pump" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1764" x="1140" width="40" height="40" />
+          <mxGeometry as="geometry" y="1795" x="1108.75" width="40" height="40" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-13" value="Rework&lt;br&gt;Table" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1950" x="860" width="80" height="50" />
@@ -296,14 +296,14 @@
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-23" value="9.Grease Inject" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1687.5" x="1052" width="50" height="50" />
         </mxCell>
-        <mxCell id="JJLQ4jDyWOrviq1dHbL1-24" value="7.MH Tightening" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=91;" vertex="1">
-          <mxGeometry as="geometry" y="1674" x="1232" width="50" height="80" />
+        <mxCell id="JJLQ4jDyWOrviq1dHbL1-24" value="7.MH Tightening" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" vertex="1">
+          <mxGeometry as="geometry" y="1545" x="1117.5" width="50" height="80" />
         </mxCell>
-        <mxCell id="JJLQ4jDyWOrviq1dHbL1-25" value="6.Stopper Plate, Set Screw" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=-180;" vertex="1">
-          <mxGeometry as="geometry" y="1810" x="1282" width="60" height="60" />
+        <mxCell id="JJLQ4jDyWOrviq1dHbL1-25" value="6.Stopper Plate, Set Screw" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;rotation=90;" vertex="1">
+          <mxGeometry as="geometry" y="1550" x="1182.5" width="60" height="60" />
         </mxCell>
-        <mxCell id="JJLQ4jDyWOrviq1dHbL1-26" value="5.CC Tightening" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1">
-          <mxGeometry as="geometry" y="1870" x="1282" width="60" height="60" />
+        <mxCell id="JJLQ4jDyWOrviq1dHbL1-26" value="5.CC Tightening" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1">
+          <mxGeometry as="geometry" y="1550" x="1242.5" width="60" height="60" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-27" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="endArrow=none;html=1;" edge="1">
           <mxGeometry as="geometry" width="50" height="50" relative="1">
@@ -365,13 +365,13 @@
           <mxGeometry as="geometry" y="1761.5" x="949.5" width="22.5" height="30" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-40" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1471" x="1270.75" width="22.5" height="30" />
+          <mxGeometry as="geometry" y="1397" x="1218.75" width="22.5" height="30" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-41" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1511" x="1270.75" width="22.5" height="30" />
+          <mxGeometry as="geometry" y="1440" x="1196.25" width="22.5" height="30" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-42" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" y="1511" x="1180" width="22.5" height="30" />
+          <mxGeometry as="geometry" y="1625" x="1230" width="22.5" height="30" />
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-43" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1577" x="932.75" width="22.5" height="30" />
@@ -393,6 +393,9 @@
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-49" value="Slide" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;" vertex="1">
           <mxGeometry as="geometry" y="1718" x="1430" width="134.37" height="20" />
+        </mxCell>
+        <mxCell id="JJLQ4jDyWOrviq1dHbL1-51" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" y="1630" x="1117.5" width="22.5" height="30" />
         </mxCell>
       </root>
     </mxGraphModel>
