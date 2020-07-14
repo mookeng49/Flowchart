@@ -1,4 +1,4 @@
-<mxfile version="13.4.2" type="github" pages="9" etag="_wOy1dzHOH65lPBiHyU-" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T08:28:23.018Z" host="app.diagrams.net">
+<mxfile version="13.4.2" type="github" pages="9" etag="wpMpuCzqhiLbY861khpb" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-07-14T08:28:35.939Z" host="app.diagrams.net">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Current">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="1654" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="400" dx="723">
       <root>
@@ -503,9 +503,6 @@
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-37" value="Packing" parent="JJLQ4jDyWOrviq1dHbL1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1861" x="400" width="180" height="46" />
         </mxCell>
-        <mxCell id="JJLQ4jDyWOrviq1dHbL1-38" value="Slide" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;" vertex="1">
-          <mxGeometry as="geometry" y="1718" x="1460" width="134.37" height="20" />
-        </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-39" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1761.5" x="949.5" width="22.5" height="30" />
         </mxCell>
@@ -526,9 +523,6 @@
         </mxCell>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-48" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;arrowWidth=0.43333333333333335;arrowSize=0.36;" vertex="1">
           <mxGeometry as="geometry" y="1699" x="400" width="45" height="27" />
-        </mxCell>
-        <mxCell id="JJLQ4jDyWOrviq1dHbL1-49" value="Slide" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;" vertex="1">
-          <mxGeometry as="geometry" y="1718" x="1430" width="134.37" height="20" />
         </mxCell>
         <mxCell id="aB1S86Bl6TcVM27c5rwb-0" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" y="1450" x="999.5" width="22.5" height="30" />
