@@ -1,4 +1,4 @@
-<mxfile version="13.4.2" type="github" host="app.diagrams.net" modified="2020-07-15T01:51:22.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="8yRhBHFYdZnr0ArnH87j" pages="8">
+<mxfile version="13.4.2" type="github" host="app.diagrams.net" modified="2020-07-15T01:58:36.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="qfjC5V357zDMZY6uTp80" pages="8">
   <diagram id="wP9Wt2C_sTmRDWCd7HxM" name="Current">
     <mxGraphModel grid="1" dx="1700" dy="922" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TBI570lrb27etf5B6X2X" name="TypePEA">
-    <mxGraphModel grid="1" dx="703" dy="-788" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="1457" dy="-379" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-0" />
         <mxCell id="JJLQ4jDyWOrviq1dHbL1-1" parent="JJLQ4jDyWOrviq1dHbL1-0" />
@@ -314,6 +314,15 @@
         </mxCell>
         <mxCell id="hN1X2AdlzNusonmJP3hC-8" value="MAKITA MANUFACTURING&lt;img width=&quot;undefined&quot; height=&quot;undefined&quot;&gt;" parent="JJLQ4jDyWOrviq1dHbL1-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;gradientColor=none;align=center;">
           <mxGeometry as="geometry" height="36" width="114" x="1198" y="2302" />
+        </mxCell>
+        <mxCell id="oPLDjoGcDh6qrHqWs5-D-4" value="" parent="JJLQ4jDyWOrviq1dHbL1-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;">
+          <mxGeometry as="geometry" height="60" width="120" x="1000" y="1870" />
+        </mxCell>
+        <mxCell id="oPLDjoGcDh6qrHqWs5-D-1" value="Support Area 1m" parent="JJLQ4jDyWOrviq1dHbL1-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1">
+          <mxGeometry as="geometry" height="860" width="100" x="1351" y="1324" />
+        </mxCell>
+        <mxCell id="oPLDjoGcDh6qrHqWs5-D-0" value="Support Area 1m" parent="JJLQ4jDyWOrviq1dHbL1-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1">
+          <mxGeometry as="geometry" height="100" width="1250" x="201" y="2084" />
         </mxCell>
       </root>
     </mxGraphModel>
