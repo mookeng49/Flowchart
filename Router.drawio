@@ -1,6 +1,6 @@
-<mxfile type="github" version="13.7.7" host="app.diagrams.net" modified="2020-10-06T02:26:20.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="wd8L65MF9HutW2SI6Tf9">
+<mxfile type="github" version="13.7.7" host="app.diagrams.net" modified="2020-10-06T02:27:44.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="WHfmVLdpX17iIS9OgjzF">
   <diagram id="XOBUdz3-UfbB6YAW-WYy" name="Page-1">
-    <mxGraphModel grid="1" dx="599" dy="331" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="723" dy="400" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,9 @@
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-59" value="Prepare Process Sheet of New Spec (Use Current Part Base)" parent="kFwF-f4345-qtAIGn7Fv-10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="15.5" y="1000" width="120" height="60" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-79" value="Y" parent="kFwF-f4345-qtAIGn7Fv-10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
+          <mxGeometry as="geometry" x="76" y="1160" width="20" height="20" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-31" value="Y" parent="kFwF-f4345-qtAIGn7Fv-10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="76" y="820" width="20" height="20" />
