@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.7.7" host="app.diagrams.net" modified="2020-10-06T01:43:33.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="5LP2L3JXWOI3aE70otMO">
+<mxfile type="github" version="13.7.7" host="app.diagrams.net" modified="2020-10-06T01:46:48.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="_JbecJ3Zp2zJ3KDafjtP">
   <diagram id="XOBUdz3-UfbB6YAW-WYy" name="Page-1">
     <mxGraphModel grid="1" dx="723" dy="400" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -29,7 +29,13 @@
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-1" value="Check New Spec ?" parent="kFwF-f4345-qtAIGn7Fv-10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="17" y="410" width="116" height="80" />
+          <mxGeometry as="geometry" x="10" y="410" width="130" height="80" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-20" parent="kFwF-f4345-qtAIGn7Fv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" source="Gr8hSLXEID0lEqfCxKnT-17" edge="1" target="Gr8hSLXEID0lEqfCxKnT-19">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-17" value="Check New Spec Without DWG&lt;br&gt;" parent="kFwF-f4345-qtAIGn7Fv-10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="10" y="610" width="130" height="80" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-9" value="Y" parent="kFwF-f4345-qtAIGn7Fv-10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="76" y="490" width="20" height="20" />
@@ -45,11 +51,17 @@
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-7" parent="kFwF-f4345-qtAIGn7Fv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" source="Gr8hSLXEID0lEqfCxKnT-1" edge="1" target="Gr8hSLXEID0lEqfCxKnT-6">
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-18" parent="kFwF-f4345-qtAIGn7Fv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" source="Gr8hSLXEID0lEqfCxKnT-6" edge="1" target="Gr8hSLXEID0lEqfCxKnT-17">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-6" value="Report Current Spec and New Spec (INDEVS) MAP WEB" parent="kFwF-f4345-qtAIGn7Fv-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1">
           <mxGeometry as="geometry" x="15" y="520" width="120" height="60" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-4" value="N" parent="kFwF-f4345-qtAIGn7Fv-10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="133" y="430" width="20" height="20" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-19" value="Print Report of INDEVS Without DWG" parent="kFwF-f4345-qtAIGn7Fv-10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="15" y="720" width="120" height="60" />
         </mxCell>
         <mxCell id="kFwF-f4345-qtAIGn7Fv-11" value="PC" parent="kFwF-f4345-qtAIGn7Fv-1" style="swimlane;html=1;startSize=20;" vertex="1">
           <mxGeometry as="geometry" x="300" y="20" width="150" height="1570" />
