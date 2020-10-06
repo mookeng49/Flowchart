@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.7.7" host="app.diagrams.net" modified="2020-10-06T02:07:11.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="Wmnqc2pUldyuxCk6WdxJ">
+<mxfile type="github" version="13.7.7" host="app.diagrams.net" modified="2020-10-06T02:09:01.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="yuK83IKSskzs0h1dfkTL">
   <diagram id="XOBUdz3-UfbB6YAW-WYy" name="Page-1">
     <mxGraphModel grid="1" dx="723" dy="400" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -78,6 +78,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-73" parent="kFwF-f4345-qtAIGn7Fv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" source="Gr8hSLXEID0lEqfCxKnT-63" edge="1" target="Gr8hSLXEID0lEqfCxKnT-72">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-63" value="Check Process Sheet&lt;br&gt;By Second Person" parent="kFwF-f4345-qtAIGn7Fv-10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="10.5" y="1190" width="130" height="80" />
         </mxCell>
@@ -120,6 +123,9 @@
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-59" value="Prepare Process Sheet of New Spec (Use Current Part Base)" parent="kFwF-f4345-qtAIGn7Fv-10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="15.5" y="1100" width="120" height="60" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-72" value="Prepare Application of NEW SPEC R/T" parent="kFwF-f4345-qtAIGn7Fv-10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="15.5" y="1300" width="120" height="60" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-4" value="N" parent="kFwF-f4345-qtAIGn7Fv-10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="133" y="430" width="20" height="20" />
