@@ -1,4 +1,4 @@
-<mxfile type="github" version="13.7.7" etag="l1BxhOl1vmwlVr8-B0bA" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-10-07T07:18:18.740Z" host="app.diagrams.net">
+<mxfile type="github" version="13.7.7" etag="B4BLAtLCUmAluUUWGHjg" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-10-07T07:25:47.513Z" host="app.diagrams.net">
   <diagram id="XOBUdz3-UfbB6YAW-WYy" name="Draft">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="514" dx="940">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-100" value="End" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="40" width="120" y="1510" x="65" />
         </mxCell>
-        <mxCell id="Gr8hSLXEID0lEqfCxKnT-93" value="Storage of New Spec R/T" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;labelBackgroundColor=none;">
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-93" value="Storage of New Spec R/T" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;labelBackgroundColor=#212121;fontColor=#FFFFFF;">
           <mxGeometry as="geometry" height="60" width="95" y="1420" x="77.5" />
         </mxCell>
         <mxCell id="nwRyTae5Zb8wFN_3mBOA-12" value="OK" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
