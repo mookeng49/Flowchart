@@ -1,6 +1,6 @@
-<mxfile type="github" version="13.7.7" etag="Pmu9_4SwsHpyGg3FetIl" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-10-07T06:40:20.913Z" host="app.diagrams.net">
+<mxfile type="github" version="13.7.7" etag="l1BxhOl1vmwlVr8-B0bA" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-10-07T07:18:18.740Z" host="app.diagrams.net">
   <diagram id="XOBUdz3-UfbB6YAW-WYy" name="Draft">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="605" dx="1106">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="514" dx="940">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,10 @@
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-80" value="Use Process Sheet to Base of R/T" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="60" width="120" y="1240" x="65" />
         </mxCell>
-        <mxCell id="Gr8hSLXEID0lEqfCxKnT-87" value="Input R/T" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rhombus;whiteSpace=wrap;html=1;">
+        <mxCell id="nwRyTae5Zb8wFN_3mBOA-11" parent="kFwF-f4345-qtAIGn7Fv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Gr8hSLXEID0lEqfCxKnT-87" target="Gr8hSLXEID0lEqfCxKnT-93">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-87" value="Check Input R/T" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rhombus;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="80" width="130" y="1320" x="60" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-100" value="End" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
@@ -37,7 +40,10 @@
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-93" value="Storage of New Spec R/T" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;labelBackgroundColor=none;">
           <mxGeometry as="geometry" height="60" width="95" y="1420" x="77.5" />
         </mxCell>
-        <mxCell id="Gr8hSLXEID0lEqfCxKnT-90" value="N" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+        <mxCell id="nwRyTae5Zb8wFN_3mBOA-12" value="OK" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+          <mxGeometry as="geometry" height="20" width="20" y="1399" x="135" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-90" value="NG" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="20" y="1338" x="190" />
         </mxCell>
         <mxCell id="nwRyTae5Zb8wFN_3mBOA-10" parent="kFwF-f4345-qtAIGn7Fv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="nwRyTae5Zb8wFN_3mBOA-9" target="Gr8hSLXEID0lEqfCxKnT-100">
@@ -107,8 +113,8 @@
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-78" parent="kFwF-f4345-qtAIGn7Fv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Gr8hSLXEID0lEqfCxKnT-63" target="Gr8hSLXEID0lEqfCxKnT-59">
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
-              <mxPoint y="1090" x="225" />
-              <mxPoint y="1000" x="225" />
+              <mxPoint y="1090" x="215" />
+              <mxPoint y="1000" x="215" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -160,14 +166,14 @@
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-31" value="Y" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="20" y="790" x="131" />
         </mxCell>
-        <mxCell id="Gr8hSLXEID0lEqfCxKnT-69" value="N" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="20" width="20" y="1070" x="131" />
-        </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-79" value="Y" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="20" y="1130" x="131" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-9" value="Y" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="20" y="430" x="131" />
+        </mxCell>
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-69" value="N" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+          <mxGeometry as="geometry" height="20" width="20" y="1070" x="190" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-30" value="N" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="20" y="550" x="196" />
