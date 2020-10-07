@@ -1,6 +1,6 @@
-<mxfile type="github" version="13.7.7" etag="ijpP-TyGmeDL3I0buxh6" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-10-07T07:39:21.454Z" host="app.diagrams.net">
+<mxfile type="github" version="13.7.7" etag="_UP70x8hZgS-MZlRsb3J" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2020-10-07T07:40:19.017Z" host="app.diagrams.net">
   <diagram id="XOBUdz3-UfbB6YAW-WYy" name="Draft">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="734" dx="1343">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="1169" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="428" dx="783">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,15 +13,6 @@
         <mxCell id="kFwF-f4345-qtAIGn7Fv-14" value="Start" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="40" width="120" y="30" x="15" />
         </mxCell>
-        <mxCell id="Gr8hSLXEID0lEqfCxKnT-89" parent="kFwF-f4345-qtAIGn7Fv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Gr8hSLXEID0lEqfCxKnT-80">
-          <mxGeometry as="geometry" relative="1">
-            <mxPoint as="sourcePoint" y="1268" x="139.99999999999932" />
-            <Array as="points">
-              <mxPoint y="1268" x="225" />
-              <mxPoint y="1178" x="225" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nwRyTae5Zb8wFN_3mBOA-24" parent="kFwF-f4345-qtAIGn7Fv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" source="nwRyTae5Zb8wFN_3mBOA-20" target="Gr8hSLXEID0lEqfCxKnT-100">
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
@@ -30,6 +21,15 @@
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-80" value="Use Process Sheet to Base of R/T" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="60" width="120" y="1150" x="65" />
+        </mxCell>
+        <mxCell id="nwRyTae5Zb8wFN_3mBOA-32" parent="kFwF-f4345-qtAIGn7Fv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" source="Gr8hSLXEID0lEqfCxKnT-87" target="Gr8hSLXEID0lEqfCxKnT-80">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="1268" x="125" />
+              <mxPoint y="1268" x="215" />
+              <mxPoint y="1180" x="215" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-87" value="Check Input R/T&lt;br&gt;(Second Person)" parent="kFwF-f4345-qtAIGn7Fv-2" vertex="1" style="rhombus;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="80" width="130" y="1228" x="60" />
@@ -148,7 +148,7 @@
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-1" value="Check New Spec ?" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="rhombus;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="80" width="130" y="350" x="59.75" />
         </mxCell>
-        <mxCell id="Gr8hSLXEID0lEqfCxKnT-6" value="Report Current Spec and New Spec (INDEVS) MAP WEB" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;">
+        <mxCell id="Gr8hSLXEID0lEqfCxKnT-6" value="Preapare Report Current Spec and New Spec (INDEVS) MAP WEB" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;">
           <mxGeometry as="geometry" height="60" width="120" y="450" x="64.75" />
         </mxCell>
         <mxCell id="Gr8hSLXEID0lEqfCxKnT-17" value="Check New Spec Without DWG&lt;br&gt;" parent="kFwF-f4345-qtAIGn7Fv-10" vertex="1" style="rhombus;whiteSpace=wrap;html=1;">
